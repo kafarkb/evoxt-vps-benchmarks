@@ -1,8 +1,4 @@
-# Evoxt VPS Benchmark Deep Dive: CPU Speed, NVMe Disk I/O & Network Test Results — Does the 6.0 GHz Claim Hold Up?
 
-> **Note:** This article is in English since Evoxt's official website defaults to English and targets an English-speaking audience.
-
----
 
 # Evoxt VPS Benchmark: Does the 6.0 GHz CPU Claim Actually Hold Up? — Geekbench, Disk I/O, Network Speed Tested, All Plans Compared
 
